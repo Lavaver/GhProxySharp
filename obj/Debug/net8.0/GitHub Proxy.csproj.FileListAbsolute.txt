@@ -1,0 +1,14 @@
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.AssemblyInfoInputs.cache
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.AssemblyInfo.cs
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.csproj.CoreCompileInputs.cache
+/home/lintonkago/repos/GitHub Proxy/bin/Debug/net8.0/GitHub Proxy
+/home/lintonkago/repos/GitHub Proxy/bin/Debug/net8.0/GitHub Proxy.deps.json
+/home/lintonkago/repos/GitHub Proxy/bin/Debug/net8.0/GitHub Proxy.runtimeconfig.json
+/home/lintonkago/repos/GitHub Proxy/bin/Debug/net8.0/GitHub Proxy.dll
+/home/lintonkago/repos/GitHub Proxy/bin/Debug/net8.0/GitHub Proxy.pdb
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.dll
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/refint/GitHub Proxy.dll
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.pdb
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/GitHub Proxy.genruntimeconfig.cache
+/home/lintonkago/repos/GitHub Proxy/obj/Debug/net8.0/ref/GitHub Proxy.dll

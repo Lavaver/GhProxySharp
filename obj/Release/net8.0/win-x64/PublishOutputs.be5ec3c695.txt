@@ -1,0 +1,2 @@
+/home/lintonkago/repos/GitHub Proxy/bin/Release/net8.0/win-x64/publish/GitHub Proxy.pdb
+/home/lintonkago/repos/GitHub Proxy/bin/Release/net8.0/win-x64/publish/GitHub Proxy.exe

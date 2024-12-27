@@ -1,0 +1,5 @@
+/home/lintonkago/repos/GitHub Proxy/obj/Release/net8.0/GitHub Proxy.csproj.AssemblyReference.cache
+/home/lintonkago/repos/GitHub Proxy/obj/Release/net8.0/GitHub Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/lintonkago/repos/GitHub Proxy/obj/Release/net8.0/GitHub Proxy.AssemblyInfoInputs.cache
+/home/lintonkago/repos/GitHub Proxy/obj/Release/net8.0/GitHub Proxy.AssemblyInfo.cs
+/home/lintonkago/repos/GitHub Proxy/obj/Release/net8.0/GitHub Proxy.csproj.CoreCompileInputs.cache
